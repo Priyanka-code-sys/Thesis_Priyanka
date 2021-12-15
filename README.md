@@ -5,6 +5,6 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_multilingual_UK_v
 # France data for review information
 https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_multilingual_FR_v1_00.tsv.gz
 ----------------
-All the three .ipynb and .pkl are present on google cloab where access need to be granted for executing the scripts smoothly on gdrive.
+All the four.ipynb and .pkl are present on google cloab where access need to be granted for executing the scripts smoothly on gdrive.
 Link for clob (https://drive.google.com/drive/folders/1DtDFFrZSPUl4A3HZ1ASIIsre5Wfzml3o?usp=sharing).
 Note : Access given to Prof.Alok Anant using there offical work id.
