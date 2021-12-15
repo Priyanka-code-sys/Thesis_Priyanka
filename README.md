@@ -1,3 +1,7 @@
+x20192037
+Data Analytic
+Prediction_of_ratings_from_Amazon_reviews_and_Polarity_Analysis_using_Deep_Learning_Techniques
+
 # Databases are more than the limit set in github for uploading a file in size.Link to download the datasets are given below when using the local system and anaconda for running the script.
 ----------------
 # UK data for review information
