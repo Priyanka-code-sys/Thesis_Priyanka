@@ -1,5 +1,4 @@
-MultilingualAmazonReviewrating
-ClassificationusingBi-directionalLSTM
+Multilingual Amazon Review Rating Classification using Bi-directional LSTM
 -----------------------------------------
 
 
