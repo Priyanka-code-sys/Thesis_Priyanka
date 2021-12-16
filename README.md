@@ -1,3 +1,8 @@
+MultilingualAmazonReviewrating
+ClassificationusingBi-directionalLSTM
+-----------------------------------------
+
+
 x20192037
 ----------
 Data Analytic
